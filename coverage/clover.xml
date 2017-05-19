@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1495215689676" clover="3.2.0">
+  <project timestamp="1495215689676" name="All files">
+    <metrics statements="12" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="5" elements="18" coveredelements="15" complexity="0" loc="12" ncloc="12" packages="1" files="2" classes="2">
+      <file name="Search.js" path="/Users/marcelodapper/Sites/Estudo/FrontendMasters/complete-intro-to-react/js/Search.js">
+        <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="5"/>
+        <line num="7" count="3" type="stmt"/>
+        <line num="8" count="3" type="stmt"/>
+        <line num="12" count="3" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="20" count="4" type="stmt"/>
+        <line num="34" count="84" type="stmt"/>
+        <line num="39" count="65" type="stmt"/>
+      </file>
+      <file name="ShowCard.js" path="/Users/marcelodapper/Sites/Estudo/FrontendMasters/complete-intro-to-react/js/ShowCard.js">
+        <metrics statements="5" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+      </file>
+    </metrics>
+  </project>
+</coverage>
